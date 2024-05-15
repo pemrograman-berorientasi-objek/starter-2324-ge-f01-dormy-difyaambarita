@@ -39,7 +39,6 @@ public class DormDatabase {
         statement.close();
     }
         
-
     public void dormAdd(String dormname, int capacity, String gender) throws SQLException {
         String sql = "INSERT INTO dorm (name, capacity, gender) VALUES (?, ?, ?)";
         PreparedStatement statement = this.getConnection().prepareStatement(sql);
