@@ -35,3 +35,4 @@ public abstract class AbstractDatabase {
     protected void seedTables() throws SQLException{ 
     }
 }
+

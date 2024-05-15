@@ -63,9 +63,6 @@ public class DormDatabase {
     }
 
     
-
-
-
     public void printDorms() throws SQLException {
         Statement statement = this.getConnection().createStatement();
         ResultSet resultSet = statement.executeQuery("SELECT * FROM dorm");
