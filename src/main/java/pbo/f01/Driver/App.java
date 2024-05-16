@@ -1,5 +1,8 @@
 package pbo.f01.Driver;
-
+/*
+ * 12S22046 - Difya Laurensya Ambarita
+ * 12S22052 - Rosari Simanjuntak
+ */
 import pbo.f01.model.DormDatabase;
 
 import java.sql.ResultSet;

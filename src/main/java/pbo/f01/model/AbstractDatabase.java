@@ -1,5 +1,8 @@
 package pbo.f01.model;
-
+/*
+ * 12S22046 - Difya Laurensya Ambarita
+ * 12S22052 - Rosari Simanjuntak
+ */
 import java.sql.*; 
 
 public abstract class AbstractDatabase { 
